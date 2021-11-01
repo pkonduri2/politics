@@ -1,0 +1,116 @@
+.home{
+background-color: #DAD0C2;
+padding:2% 15%;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+}
+h1{
+  text-align: center;
+  line-height: 3;
+  color: #B05B3B;
+  font-family: 'Montserrat', sans-serif;
+font-size: 5rem;
+padding-bottom: 22%;
+}
+
+
+
+/* needs */
+#testimonials {
+text-align: center;
+color: #B05B3B;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
+
+/* linking/button area */
+#topics{
+  background-color: #DAD0C2;
+  padding: 4% 21%
+}
+
+#close-image{
+  padding: 1.5%
+}
+
+.link{
+  padding: 1%;
+}
+
+/* end of homepage */
+.envelope{
+  color: black;
+}
+
+.envelope:hover{
+  color:#B05B3B;
+}
+
+.email{
+  background-color: white;
+}
+
+button{
+  border: none;
+}
+
+
+#footer{
+text-align: center;
+padding: 4% 23%
+}
+
+
+/* Info Pages */
+
+.racediv{
+  background-color: #F3F1F5;
+}
+.sep{
+  padding: 3% 2%;
+}
+
+.linkrace{
+  padding-right: 20%;
+  padding-left: 20%;
+  font-size: 1.25rem;
+
+}
+
+.racedesc{
+  padding-bottom: 3%;
+}
+.dupediv{
+  text-align: center;
+}
+
+.whatnow{
+font-family: 'Ubuntu', sans-serif;
+font-size: 1.2rem;
+padding: 2% 12%
+}
+.what_now{
+font-family: 'Ubuntu', sans-serif;
+text-align:left;
+font-size: 1.2rem;
+padding: 2% 12%
+}
